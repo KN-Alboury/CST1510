@@ -35,7 +35,7 @@ second = float(input("Please type in your second number:"))    # : replace with 
 #    Do not type the answers. Calculate them.
 
 difference = (first - second)   # I replaced the "0.0" with the formula for the difference, aka first number minus the second, all in brackets
-percent = (first * second / 100)      # again, I put the percentage formula in brackets
+percent = (first / second * 100)      # again, I put the percentage formula in brackets
 
 
 # =================================================================== OUTPUT

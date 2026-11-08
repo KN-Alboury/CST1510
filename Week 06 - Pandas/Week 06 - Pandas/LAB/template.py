@@ -2,7 +2,7 @@
 RECORD CHECK  -  my version
 ===========================
 
-Name  : Khadija alBOURY nDIAYE
+Name  : Khadija Alboury Ndiaye
 Lane  :  AI
 Date  : 04/11/2026
 
